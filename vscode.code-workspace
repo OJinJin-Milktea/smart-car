@@ -1,0 +1,123 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "..\\..\\..\\components\\drivers\\core",
+            "name": "rtthread/components/drivers/core"
+        },
+        {
+            "path": "..\\..\\..\\components\\drivers\\i2c",
+            "name": "rtthread/components/drivers/i2c"
+        },
+        {
+            "path": "..\\..\\..\\components\\drivers\\include",
+            "name": "rtthread/components/drivers/include"
+        },
+        {
+            "path": "..\\..\\..\\components\\drivers\\ipc",
+            "name": "rtthread/components/drivers/ipc"
+        },
+        {
+            "path": "..\\..\\..\\components\\drivers\\misc",
+            "name": "rtthread/components/drivers/misc"
+        },
+        {
+            "path": "..\\..\\..\\components\\drivers\\pin",
+            "name": "rtthread/components/drivers/pin"
+        },
+        {
+            "path": "..\\..\\..\\components\\drivers\\serial",
+            "name": "rtthread/components/drivers/serial"
+        },
+        {
+            "path": "..\\..\\..\\components\\finsh",
+            "name": "rtthread/components/finsh"
+        },
+        {
+            "path": "..\\..\\..\\components\\libc\\compilers\\common",
+            "name": "rtthread/components/libc/compilers/common"
+        },
+        {
+            "path": "..\\..\\..\\components\\libc\\compilers\\common\\include",
+            "name": "rtthread/components/libc/compilers/common/include"
+        },
+        {
+            "path": "..\\..\\..\\components\\libc\\compilers\\newlib",
+            "name": "rtthread/components/libc/compilers/newlib"
+        },
+        {
+            "path": "..\\..\\..\\components\\libc\\posix\\io\\epoll",
+            "name": "rtthread/components/libc/posix/io/epoll"
+        },
+        {
+            "path": "..\\..\\..\\components\\libc\\posix\\io\\eventfd",
+            "name": "rtthread/components/libc/posix/io/eventfd"
+        },
+        {
+            "path": "..\\..\\..\\components\\libc\\posix\\io\\poll",
+            "name": "rtthread/components/libc/posix/io/poll"
+        },
+        {
+            "path": "..\\..\\..\\components\\libc\\posix\\ipc",
+            "name": "rtthread/components/libc/posix/ipc"
+        },
+        {
+            "path": "..\\..\\..\\include",
+            "name": "rtthread/include"
+        },
+        {
+            "path": "..\\..\\..\\libcpu\\arm\\common",
+            "name": "rtthread/libcpu/arm/common"
+        },
+        {
+            "path": "..\\..\\..\\libcpu\\arm\\cortex-m4",
+            "name": "rtthread/libcpu/arm/cortex-m4"
+        },
+        {
+            "path": "..\\..\\..\\src",
+            "name": "rtthread/src"
+        },
+        {
+            "path": "..\\..\\..\\src\\klibc",
+            "name": "rtthread/src/klibc"
+        },
+        {
+            "path": "..\\libraries\\HAL_Drivers",
+            "name": "rtthread/libraries/HAL_Drivers"
+        },
+        {
+            "path": "..\\libraries\\HAL_Drivers\\CMSIS\\Include",
+            "name": "rtthread/libraries/HAL_Drivers/CMSIS/Include"
+        },
+        {
+            "path": "..\\libraries\\HAL_Drivers\\drivers",
+            "name": "rtthread/libraries/HAL_Drivers/drivers"
+        },
+        {
+            "path": "..\\libraries\\HAL_Drivers\\drivers\\config",
+            "name": "rtthread/libraries/HAL_Drivers/drivers/config"
+        },
+        {
+            "path": "..\\libraries\\STM32F4xx_HAL\\CMSIS\\Device\\ST\\STM32F4xx\\Include",
+            "name": "rtthread/libraries/STM32F4xx_HAL/CMSIS/Device/ST/STM32F4xx/Include"
+        },
+        {
+            "path": "..\\libraries\\STM32F4xx_HAL\\CMSIS\\Device\\ST\\STM32F4xx\\Source\\Templates",
+            "name": "rtthread/libraries/STM32F4xx_HAL/CMSIS/Device/ST/STM32F4xx/Source/Templates"
+        },
+        {
+            "path": "..\\libraries\\STM32F4xx_HAL\\CMSIS\\Device\\ST\\STM32F4xx\\Source\\Templates\\gcc",
+            "name": "rtthread/libraries/STM32F4xx_HAL/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc"
+        },
+        {
+            "path": "..\\libraries\\STM32F4xx_HAL\\STM32F4xx_HAL_Driver\\Inc",
+            "name": "rtthread/libraries/STM32F4xx_HAL/STM32F4xx_HAL_Driver/Inc"
+        },
+        {
+            "path": "..\\libraries\\STM32F4xx_HAL\\STM32F4xx_HAL_Driver\\Src",
+            "name": "rtthread/libraries/STM32F4xx_HAL/STM32F4xx_HAL_Driver/Src"
+        }
+    ]
+}
